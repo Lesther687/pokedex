@@ -1,0 +1,12 @@
+.Navbar {
+    width: 100%;
+    height: 80px;
+    padding: 20px;
+    background: #FF4236;
+    color: white;
+    align-content: center;
+}
+.menu {
+    float: right;
+    margin-right: 10px;
+}
